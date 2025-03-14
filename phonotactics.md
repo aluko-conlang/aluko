@@ -5,7 +5,7 @@ The syllable structure in 'aluko is (C)(C)V(L) | N where:
 - C is a consonant.
 - V is a vowel.
 - L is a liquid (one of `wrlj`), or the sibilant(`s`).
-- N is a nasal (one of `mnñ`).
+- N is a nasal (one of `mnñ`).\
 Note: `|` is the logical OR operator.
 
 ## Exceptions
