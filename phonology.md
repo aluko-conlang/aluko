@@ -9,6 +9,8 @@
 | **Fricative**  | `f`, `v`   | `θ`, `ð`   | `s`, `z`     | `ç`          | `x`       |             |
 | **Liquid**     | `w`        |            | `r`, `l`     | `j`          |           |             |
 
+Affricates: [t͡s], [d͡z]
+
 ## Vowels
 
 | IPA Vowels | **Front** | **Back** |
