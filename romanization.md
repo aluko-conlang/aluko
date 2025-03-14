@@ -1,6 +1,6 @@
-# Haluko - Romanization
+# 'aluko - Romanization
 
-Here are the letters in Haluko romanized
+Here are the letters in 'aluko romanized
 | **IPA Sound** | **Strict Romanization** | **Loose Romanization** |
 | ------------- | ----------------------- | ---------------------- |
 | `[p]`         | `⟨p⟩`                   | `⟨p⟩`                  |

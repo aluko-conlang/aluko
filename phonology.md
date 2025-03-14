@@ -1,4 +1,4 @@
-# Haluko - Phonology
+# 'aluko - Phonology
 
 ## Consonants
 

@@ -1,6 +1,6 @@
-# Haluko
+# 'aluko
 
-Haluko is a weird conlang :3
+'aluko is a weird conlang :3
 - [Phonology](./phonology.md)
 - [Romanization](./romanization.md)
 - [Writing system](./writing_system.md)
