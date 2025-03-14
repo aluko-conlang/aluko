@@ -6,5 +6,3 @@
 - [Romanization](./romanization.md)
 - [Writing system](./writing_system.md)
 - [Grammar](./grammar.md)
-
-## meow ily!! baiiii &gt;&lt;
