@@ -11,6 +11,6 @@ Note: `|` is the logical OR operator.
 ## Exceptions
 
 - When a syllable ends in a vowel, the next one (if it exists) cannot start with another vowel.
-- A glottal stop(`'`) cannot preceed or proceed any other consonants. 
+- A glottal stop(`'`) cannot preceed or proceed any other consonants.
 - Two neighboring consonants cannot have the same place and manner of articulation.
 - If a syllable starts with a liquid, then it cannot be followed by another consonant.
