@@ -29,8 +29,9 @@ The 'aluko classes are shortened as follows:
 
 | **Word**       | **Class** | **Definition**                                                                                  |
 | -------------: | :-------: | :---------------------------------------------------------------------------------------------- |
+| pa             | V         | To be                                                                                           |
 | 'aluko         | N         | The 'aluko language                                                                             |
-| mpela          | I         | Hello                                                                                           |
+| mpela          | I         | Hello/goodbye                                                                                   |
 | mjau           | I         | The sound a cat makes, "meow"                                                                   |
 | wawa           | V         | To see                                                                                          |
 | þeña           | I         | Fuck!                                                                                           |
