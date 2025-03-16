@@ -13,13 +13,13 @@ Here are some general properties of 'aluko's grammar:
 - All nominal terms exhibit case, number and ??? (T.B.D)
 - The following are the cases of 'aluko:
 
-| **Case**     | **Usage**                                    | **Marker** (T.B.D.)   | 
-| ------------ | -------------------------------------------- | --------------------- |
-| Nominative   | Marks the subject of a clause                | -meownya              |
-| Accusative   | Marks the direct object of a clause          | -meowmrrrp            |
-| Dative       | Marks the indirect object of a clause        | -meowowoww            |
-| Genitive     | Marks the possessor of another nominal noun  | -meowmeow             |
-| Adpositional | Marks the object of a adposition             | -meowowo              |
+| **Case**     | **Usage**                                    | **Marker** (T.B.D.) |
+| ------------ | -------------------------------------------- | ------------------- |
+| Nominative   | Marks the subject of a clause                | -meownya            |
+| Accusative   | Marks the direct object of a clause          | -meowmrrrp          |
+| Dative       | Marks the indirect object of a clause        | -meowowoww          |
+| Genitive     | Marks the possessor of another nominal noun  | -meowmeow           |
+| Adpositional | Marks the object of a adposition             | -meowowo            |
 
 ## Verbs
 

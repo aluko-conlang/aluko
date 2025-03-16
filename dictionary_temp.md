@@ -15,10 +15,10 @@ The 'aluko classes are shortened as follows:
 
 ## Temporary Word List
 
-| **Word**    | **Class**     | **Definition**                                                                                  |
-| ----------: | :-----------: | :---------------------------------------------------------------------------------------------- |
-| 'aluko      | N             | Language                                                                                        |
-| wawa        | V             | To See                                                                                          |
-| mpela       | J             | Cute                                                                                            |
-| thenja      | N             | Person                                                                                          |
-|             | .             |                                                                                                 |
+| **Word**       | **Class** | **Definition**                                                                                  |
+| -------------: | :-------: | :---------------------------------------------------------------------------------------------- |
+| 'aluko         | N         | Language                                                                                        |
+| wawa           | V         | To See                                                                                          |
+| mpela          | J         | Cute                                                                                            |
+| thenja         | N         | Person                                                                                          |
+|                | .         |                                                                                                 |
