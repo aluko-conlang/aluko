@@ -15,7 +15,7 @@ Note: `|` is the logical OR operator.
 - Two neighboring consonants at the start of a syllable cannot have the same place and manner of articulation.
 - If a syllable starts with a liquid, then it cannot be followed by another consonant.
 
-## Non-differantiation factors
+## Non-differantiating Factors
 
 These factors are ones that may not change the meaning of a word (as in, if 2 words are entirely the same except for only these factors, they must mean the same)
 
@@ -23,3 +23,4 @@ These factors are ones that may not change the meaning of a word (as in, if 2 wo
 - Vowel length
 - Diphthongs ending in `o` and their counterpart ending with `u` and vice-versa
 - Dipththongs ending with `u` and monothongs with the same starting vowel followed by `w`
+- Consonants with the same place and manner of articulation

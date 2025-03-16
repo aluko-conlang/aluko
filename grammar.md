@@ -13,35 +13,46 @@ Here are some general properties of 'aluko's grammar:
 - All nominal terms exhibit case, number and ??? (T.B.D)
 - The following are the cases of 'aluko:
 
-| **Case**     | **Usage**                                    | **Marker** (T.B.D.) |
-| ------------ | -------------------------------------------- | ------------------- |
-| Nominative   | Marks the subject of a clause                | -meownya            |
-| Accusative   | Marks the direct object of a clause          | -meowmrrrp          |
-| Dative       | Marks the indirect object of a clause        | -meowowoww          |
-| Genitive     | Marks the possessor of another nominal noun  | -meowmeow           |
-| Adpositional | Marks the object of a adposition             | -meowowo            |
+| **Case**     | **Usage**                                   | **Marker**  |
+| -----------: | :-----------------------------------------: | :---------- |
+| Nominative   | Marks the subject of a clause               | c-          |
+| Accusative   | Marks the direct object of a clause         | f-          |
+| Dative       | Marks the indirect object of a clause       | j-          |
+| Genitive     | Marks the possessor of another nominal term | s-          |
+| Adpositional | Marks the object of a adposition            | z-          |
+
+## Nominal Numbers
+
+TODO
+
+## Vowel Reduplication
+
+Whenever two morphemes are linked and they do not form valid syllables, the inital vowel of the proceeding syllable is inserted between them as a monophthong to ensure correct phonotactical behavior.
+
+## Persons
+
+- There exist 3 persons in 'aluko, *First Person* (relating to the speaker), *Second Person* (relating to the listener), and *Third Person* (relating to somebody else). In their plural forms, the respective persons also refer to additional people other than their relative point, so the *Second Person Plural* refers to both the listener as well as additional people. For the *First Person*, there exist both an *Inclusive Plural* as well as an *Exclusive Plural*, which determine whether the listener is included in the additional people specified via *Plurality*.
+
+| **Persons**                   | **Marker** | **English Equivalent**  |
+| ----------------------------: | :--------: | :---------------------- |
+| 1st Person Singular           | -om        | I                       |
+| 2nd Person Singular           | -al        | You (singular)          |
+| 3rd Person Singular           | -ur        | He/she/it               |
+| 1st Person Exclusive Plural   | -em        | We (excluding listener) |
+| 1st Person Inclusive Plural   | -el        | We (including listener) |
+| 2nd Person Plural             | -ar        | You (plural)            |
+| 3rd Person Plural             | -in        | They (plural)           |
 
 ## Verbs
 
-- Verbs are conjugated based on person, number and tense.
-- The tenses of 'aluko are Present, Past and Future :3
+Verbs are conjugated based on person and tense. The order in which these are specified is TPR, where T is the tense of the verb, P is the person and R is the verb root/infinitive.
 
-TODO: ordering of the verb (are pronoun thingies prefixes, suffixes, are tense thingies prefixes, suffixes, and if both are the same type, in what order do they go?)
+| **Tense** | **Marker** |
+| --------- | ---------- |
+| Present   | ø-         |
+| Past      | p-         |
+| Future    | g-         |
 
+Note: ø is used to signify the absence of a sound.
 
-| **Pronoun** | **Marker** (TBD) | **English Eqivalent** |
-| ----------- | ---------------- | --------------------- |
-| 1st Pers Sg |                  | I                     |
-| 2nd Pers Sg |                  | You (Sg)              |
-| 3rd Pers Sg |                  | He/She/It/They        |
-| 1st Pers Pl |                  | We with listener      |
-| 1st Pers Pl |                  | We without listener   |
-| 2nd Pers Pl |                  | You (Pl)              |
-| 3rd Pers Pl |                  | They                  |
-
-
-| **Tense** | **Marker** (TBD) |
-| --------- | ---------------- |
-| Present   |                  |
-| Past      |                  |
-| Future    |                  |
+Note: The word *Marker* refers to a morpheme used to specify or differentiate between grammatical features/properties.

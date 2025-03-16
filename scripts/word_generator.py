@@ -62,7 +62,7 @@ def generate_syllable():
         # Continue if there is an optional specifier 50% of the time
         if i + 1 < len(combination) and combination[i + 1] == '*' and random.random() < 0.5:
             continue
-        if i + 1 < len(combination) and combination[i + 1] == '-' and random.random() < 0.01:
+        if i + 1 < len(combination) and combination[i + 1] == '-' and random.random() > 0.05:
             continue
         valid_chars = patterns[combination[i]]
         syllable += valid_chars[random.randrange(0, len(valid_chars))]

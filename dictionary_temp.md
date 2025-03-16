@@ -13,6 +13,10 @@ The 'aluko classes are shortened as follows:
 | Adposition   | P                |
 | Interjection | I                |
 
+## Pronoun Inflections
+
+TODO
+
 ## Temporary Word List
 
 | **Word**       | **Class** | **Definition**                                                                                  |
