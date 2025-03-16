@@ -6,6 +6,7 @@
 - [Romanization](./romanization.md)
 - [Writing system](./writing_system.md)
 - [Grammar](./grammar.md)
+- [Dictionary](./dictionary.md)
 
 ## meow ily!! baiiii &gt;&lt;
 
