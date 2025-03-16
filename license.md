@@ -1,4 +1,4 @@
-# The Meow License 1.0
+# The Meow License 1.1
 
 This license, henceforth referred to as "The Meow License," governs the use of the language covered by it ("The Language").
 
@@ -20,6 +20,9 @@ Meow. Mwrrrrrp. Mraeoww. This document establishes the rights and responsibiliti
 
 ## 5. Final Clause
 This license is immutable, eternal, and legally dubious at best. Any disputes shall be settled by the highest authority in feline jurisprudence: a very sleepy cat that does not care.
+
+## 6. `static final` Clause
+meow meowm eow meow meow meow meow meow meow meow meow meow meow
 
 Signed,
 The Grand Council of Meows
