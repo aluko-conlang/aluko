@@ -25,3 +25,23 @@ Here are some general properties of 'aluko's grammar:
 
 - Verbs are conjugated based on person, number and tense.
 - The tenses of 'aluko are Present, Past and Future :3
+
+TODO: ordering of the verb (are pronoun thingies prefixes, suffixes, are tense thingies prefixes, suffixes, and if both are the same type, in what order do they go?)
+
+
+| **Pronoun** | **Marker** (TBD) | **English Eqivalent** |
+| ----------- | ---------------- | --------------------- |
+| 1st Pers Sg |                  | I                     |
+| 2nd Pers Sg |                  | You (Sg)              |
+| 3rd Pers Sg |                  | He/She/It/They        |
+| 1st Pers Pl |                  | We with listener      |
+| 1st Pers Pl |                  | We without listener   |
+| 2nd Pers Pl |                  | You (Pl)              |
+| 3rd Pers Pl |                  | They                  |
+
+
+| **Tense** | **Marker** (TBD) |
+| --------- | ---------------- |
+| Present   |                  |
+| Past      |                  |
+| Future    |                  |
