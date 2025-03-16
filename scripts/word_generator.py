@@ -2,7 +2,10 @@ import random
 import sys
 import os
 
-combinations = ["C*C*VL*", "N"]
+# Probabilities:
+# * : 50%
+# - : 1%
+combinations = ["C*C*VV-L*", "N"]
 threshold = 0.95
 patterns = {
     "C": "pbtdkg'mnñfvþðszcxwrlj",
@@ -32,6 +35,8 @@ long_map = {
     "u":"ū",
 }
 
+disallowed_diphthongs = ["ae", "ea", "uo", "ou"]
+
 def get_articulation(consonant):
     place = -1
     manner = -1
@@ -39,7 +44,6 @@ def get_articulation(consonant):
         if consonant in consonants_by_place[i]:
             place = i
             break
-    
     for i in range(0, len(consonants_by_manner)):
         if consonant in consonants_by_manner[i]:
             manner = i
@@ -53,10 +57,12 @@ def generate_syllable():
 
     for i in range(0, len(combination)):
         # Skip the optional specifier
-        if combination[i] == '*':
+        if not combination[i].isalnum():
             continue
         # Continue if there is an optional specifier 50% of the time
         if i + 1 < len(combination) and combination[i + 1] == '*' and random.random() < 0.5:
+            continue
+        if i + 1 < len(combination) and combination[i + 1] == '-' and random.random() < 0.01:
             continue
         valid_chars = patterns[combination[i]]
         syllable += valid_chars[random.randrange(0, len(valid_chars))]
@@ -89,12 +95,14 @@ def normalize_word(word):
         elif word[i - 1] in patterns["V"] and word[i] in patterns["V"]:
             if word[i - 1] == word[i]:
                 elongate = True
-            continue
+                continue
+            elif (word[i-1] + word[i]) in disallowed_diphthongs:
+                continue
         elif word[i - 1] == word[i]:
             continue
         if elongate:
             result += long_map[word[i - 1]]
-        else: 
+        else:
             result += word[i - 1]
         elongate = False
     return result

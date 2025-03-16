@@ -40,3 +40,5 @@ Here is how the letters in 'aluko are romanized:
 | **Stress**    | `⟨á⟩`     | `⟨ã⟩` (or `⟨â⟩`) |
 
 However, in *Loose Romanization*, only long vowels are differentiated from their short counterparts, by duplicating the vowel (for example, `⟨a⟩` becomes `⟨aa⟩`).
+
+Note: For Diphthongs, the vowel marker goes onto the first vowel.

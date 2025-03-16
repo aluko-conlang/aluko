@@ -21,4 +21,5 @@ These factors are ones that may not change the meaning of a word (as in, if 2 wo
 
 - Stress
 - Vowel length
-- Diphthongs `ao` and `au`
+- Diphthongs ending in `o` and their counterpart ending with `u` and vice-versa
+- Dipththongs ending with `u` and monothongs with the same starting vowel followed by `w`
