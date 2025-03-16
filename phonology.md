@@ -9,7 +9,17 @@
 | **Fricative**  | `f`, `v`   | `θ`, `ð`   | `s`, `z`     | `ç`          | `x`       |             |
 | **Liquid**     | `w`        |            | `r`, `l`     | `j`          |           |             |
 
-Affricates: [t͡s], [d͡z]
+Affricates: [`t͡s`], [`d͡z`]
+
+x <- disallowed
+
+| Diphthongs | **ä** | **ε** | **i** | **ɔ** | **u** |
+| ---------- | ----- | ----- | ----- | ----- | ----- |
+| **ä**      |   x   |   x   |       |       |       |
+| **ε**      |   x   |   x   |       |       |       |
+| **i**      |       |       |   x   |       |       |
+| **ɔ**      |       |       |       |   x   |       |
+| **u**      |       |       |       |       |   x   |
 
 ## Vowels
 
@@ -37,3 +47,5 @@ Affricates: [t͡s], [d͡z]
 - [`r`] : [`ɹ`], [`ɻ`], [`ɾ`], [`ʀ`], [`ʁ`]
 - [`l`] : [`ɭ`]
 - [`j`] : [`ʝ`]
+
+Note: Diphthongs are equivalent to every combination of their allophones

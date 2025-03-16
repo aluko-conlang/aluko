@@ -14,3 +14,11 @@ Note: `|` is the logical OR operator.
 - A glottal stop(`'`) cannot preceed any consonants and cannot proceed any non-coda consonants.
 - Two neighboring consonants at the start of a syllable cannot have the same place and manner of articulation.
 - If a syllable starts with a liquid, then it cannot be followed by another consonant.
+
+## Non-differantiation factors
+
+These factors are ones that may not change the meaning of a word (as in, if 2 words are entirely the same except for only these factors, they must mean the same)
+
+- Stress
+- Vowel length
+- Diphthongs `ao` and `au`
