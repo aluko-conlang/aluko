@@ -46,3 +46,5 @@ The 'aluko classes are shortened as follows:
 | ñiñow          | N         | Baby                                                                                            |
 | meo            | N         | Person                                                                                          |
 | komko          | N         | Group                                                                                           |
+| Pa             | A         | Yes                                                                                             |
+| Ral            | A         | No/Not                                                                                          |
