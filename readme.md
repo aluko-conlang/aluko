@@ -10,4 +10,4 @@
 
 ## meow ily!! baiiii &gt;&lt;
 
-Btw for the transfem kitties learning the language, here's the [alphabet song](./alphabet_song.md) :333 mjau mjau xoxo
+Btw for the kitties learning the language, here's the [alphabet song](./alphabet_song.md) :333 mjau mjau xoxo
