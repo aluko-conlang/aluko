@@ -48,3 +48,5 @@ The 'aluko classes are shortened as follows:
 | komko          | N         | Group                                                                                           |
 | Pa             | A         | Yes                                                                                             |
 | Ral            | A         | No/Not                                                                                          |
+| Jalo           | I         | Congratulations/Yay                                                                             |
+| Wasi           | N         | Crazy                                                                                           |
