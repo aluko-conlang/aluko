@@ -35,6 +35,7 @@ The 'aluko classes are shortened as follows:
 | mjau           | I         | The sound a cat makes, "meow"                                                                   |
 | wawa           | V         | To see                                                                                          |
 | þeña           | I         | Fuck!                                                                                           |
+| þeña           | V         | Fuck (Non-sexual interpretation, e.g. "omþeña fal" - "fuck u")                                  |
 | tiþo           | V         | To speak/say                                                                                    |
 | ãjpa           | V         | To walk                                                                                         |
 | juvro          | N         | Money                                                                                           |
