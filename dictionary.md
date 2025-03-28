@@ -25,7 +25,7 @@ The 'aluko classes are shortened as follows:
 | 2nd Person Plural           | car            | far            | jar        | sar          | zar               |
 | 3rd Person Plural           | cin            | fin            | jin        | sin          | zin               |
 
-## Temporary Word List
+## Word List
 
 | **Word**       | **Class** | **Definition**                                                                                  |
 | -------------: | :-------: | :---------------------------------------------------------------------------------------------- |
@@ -47,7 +47,5 @@ The 'aluko classes are shortened as follows:
 | ñiñow          | N         | Baby                                                                                            |
 | meo            | N         | Person                                                                                          |
 | komko          | N         | Group                                                                                           |
-| Pa             | A         | Yes                                                                                             |
-| Ral            | A         | No/Not                                                                                          |
-| Jalo           | I         | Congratulations/Yay                                                                             |
-| Wasi           | N         | Crazy                                                                                           |
+| jalo           | I         | Congratulations/Yay                                                                             |
+| wasi           | N         | Crazy                                                                                           |
