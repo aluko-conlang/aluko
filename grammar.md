@@ -5,11 +5,11 @@ Here are some general properties of 'aluko's grammar:
 - It is a pro-drop language, meaning that if no *Subject* is specified for a verb, the matching *Personal Pronoun* of that *Verb* is the implied *Subject*.
 - The word order is VSO (*Verb* - *Subject* - *Object*).
 - Additionally, *Direct Objects* are placed after *Indirect Objects*. Similarly, *Attributes* are placed after their describing *Nominal Terms*.
-- *Adverbs* are placed at the beginning of each clause, and *Prepositions* are placed at the end.\
+- *Adverbs* are placed at the beginning of each clause, and *Prepositions* are placed at the end.
 
 ## Nominal Terms
 
-- All nominal terms exhibit *Case*, *Number* and ??? (T.B.D)
+- All nominal terms exhibit *Case* and *Number*
 - The following are the cases of 'aluko:
 
 | **Case**      | **Usage**                                   | **Marker**  |
@@ -18,7 +18,7 @@ Here are some general properties of 'aluko's grammar:
 | Accusative    | Marks the direct object of a clause         | `f`-        |
 | Dative        | Marks the indirect object of a clause       | `j`-        |
 | Genitive      | Marks the possessor of another nominal term | `s`-        |
-| Prepositional | Marks the object of a preposition           | `z`-        |
+| Prepositional | Marks the object of a preposition           | `x`-        |
 
 ### Nominal Numbers
 
@@ -34,7 +34,17 @@ Here are some general properties of 'aluko's grammar:
 
 ### Adjectives
 
-*Adjectives* are *Nominal Terms* which can additionally function as *Attributes*. In those cases, they describe their immediately preceding *Nominal Term* and encapsulate it to form a new one (that contains both the *Adjective* and the *Nominal Term* described).
+Adjectives in 'aluko don't consistute a distinct word class. However, a *Noun* whose meaning is such that can be used as an *Attribute* can function as one depending on the context. When this happens, the "adjective" noun must proceed its describing *Nominal Term* and encapsulate it, forming an Adjectival Modifier (that contains both the *Attribute* and the described *Nominal Term*). Note that these two have to agree in case and number.
+
+### Pronouns
+
+*Pronouns* are words that replace concrete *Nominal Terms* to refer to a concept either using more abstract ideas or to avoid repetition or overt specificity. They can also be used in case where categorization of terms in quantities or groups is not easily achievable (e.g. the English sentence "all people" is used instead naming all people individually, which is not possible).
+
+Types of *Pronouns* include *Personal Pronouns*, *Demonstrative Pronouns*, *Interrogative Pronouns*, etc... (T.B.D). For more info, see [the relative Dictionary section](./dictionary.md#other-types-of-pronouns).
+
+#### Personal Pronouns
+
+*Personal Pronouns* are, like in English, declined just like any *Nominal Term*, but also conjugated according to *Person*. Specifically, every *Personal Pronoun* takes the form of *Case Marker* + *Person Marker* (e.g. the word `me` would be `fom` in 'aluko). For a table containing all inflections of the personal pronouns, see [the Dictionary](./dictionary.md#pronoun-inflections).
 
 ## Vowel Reduplication
 
