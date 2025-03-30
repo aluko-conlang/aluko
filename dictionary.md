@@ -65,3 +65,4 @@ The 'aluko classes are shortened as follows:
 | xaxa           | I         | The sound of a laugh, "haha"                                                                    |
 | mama           | N         | Mother, Mom                                                                                     |
 | papa           | N         | Father, Dad                                                                                     |
+| ral            | A         | Not                                                                                             |

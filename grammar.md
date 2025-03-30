@@ -97,3 +97,20 @@ Note: ø is used to signify the absence of a sound.
 *Prepositions* are a type of modifier that can functions as *Attributive* and others as *Adverbial*. They function similar to adverbs, except that they also take an object, that must be in the *Prepositional Case*.
 
 Note: The word *Marker* refers to a morpheme used to specify or differentiate between grammatical features/properties.
+
+## Particles
+
+*Particles* are types of words that don't fit neatly into a strict class but are used to introduce a specific grammatical construct.
+
+### Conjunctions
+
+*Conjunctions* are *Particles* that are used to connect different words, phrases or clauses semantically. They can be either *Coordinating* or *Subordinating*, depending on whether they join terms of equal importance or introduce *Subordinate Clauses*.
+
+#### Coordinating Conjunctions
+
+| **Conjunction** | **Type**    | **English Equivalent** |
+| --------------- | ----------- | ---------------------- |
+| `ī`             | Additional  | And                    |
+| `la`            | Alternative | Or                     |
+| `vam`           | Contrastive | But                    |
+| `zoj`           | Resulting   | So                     |
