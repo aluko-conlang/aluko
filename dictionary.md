@@ -27,6 +27,7 @@ The 'aluko classes are shortened as follows:
 ### Other types of pronouns
 
 | **Pronoun Type**                   | **English Equivalent**                 | **Root** |
+| ---------------------------------- | -------------------------------------- | -------- |
 | Relative Pronoun                   | who/which/that (when relative)         | â        |
 | Interrogative Pronoun of Selection | who/which (when interrogative)         | êw       |
 
