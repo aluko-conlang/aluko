@@ -56,13 +56,13 @@ Whenever two morphemes are linked and they do not form valid syllables, the init
 
 | **Persons**                   | **Marker** | **English Equivalent**  |
 | ----------------------------: | :--------: | :---------------------- |
-| 1st Person Singular           | -`om`      | I                       |
-| 2nd Person Singular           | -`al`      | You (singular)          |
-| 3rd Person Singular           | -`ur`      | He/she/it               |
-| 1st Person Exclusive Plural   | -`em`      | We (excluding listener) |
-| 1st Person Inclusive Plural   | -`el`      | We (including listener) |
-| 2nd Person Plural             | -`ar`      | You (plural)            |
-| 3rd Person Plural             | -`in`      | They (plural)           |
+| 1st Person Singular           | `om`-      | I                       |
+| 2nd Person Singular           | `al`-      | You (singular)          |
+| 3rd Person Singular           | `ur`-      | He/she/it               |
+| 1st Person Exclusive Plural   | `em`-      | We (excluding listener) |
+| 1st Person Inclusive Plural   | `el`-      | We (including listener) |
+| 2nd Person Plural             | `ar`-      | You (plural)            |
+| 3rd Person Plural             | `in`-      | They (plural)           |
 
 ## Verbs
 
