@@ -35,18 +35,18 @@ The 'aluko classes are shortened as follows:
 
 | **Word**       | **Class** | **Definition**                                                                                  |
 | -------------: | :-------: | :---------------------------------------------------------------------------------------------- |
-| pa             | V         | To be                                                                                           |
+| pa             | V         | Be                                                                                              |
 | 'aluko         | N         | The 'aluko language                                                                             |
 | mpela          | I         | Hello/goodbye                                                                                   |
 | mjau           | I         | The sound a cat makes, "meow"                                                                   |
-| wawa           | V         | To see                                                                                          |
+| wawa           | V         | See                                                                                             |
 | þeña           | I/V       | Fuck                                                                                            |
-| tiþo           | V         | To speak/say                                                                                    |
-| ãjpa           | V         | To walk                                                                                         |
+| tiþo           | V         | Speak/say                                                                                       |
+| ãjpa           | V         | Walk                                                                                            |
 | juvro          | N         | Money                                                                                           |
-| osn            | V         | To want                                                                                         |
-| kniðbu         | V         | To understand                                                                                   |
-| zeor           | V         | To know                                                                                         |
+| osn            | V         | Want                                                                                            |
+| kniðbu         | V         | Understand                                                                                      |
+| zeor           | V         | Know                                                                                            |
 | tenroa         | N         | Fish                                                                                            |
 | þwusa          | N         | (Unorganized) mass of people                                                                    |
 | ñiñow          | N         | Baby                                                                                            |
@@ -66,3 +66,5 @@ The 'aluko classes are shortened as follows:
 | mama           | N         | Mother, Mom                                                                                     |
 | papa           | N         | Father, Dad                                                                                     |
 | ral            | A         | Not                                                                                             |
+| jarzan         | V/N       | Work, job                                                                                       |
+| uso            | V/N       | Love                                                                                            |
