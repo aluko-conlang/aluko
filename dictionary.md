@@ -19,8 +19,8 @@ The 'aluko classes are shortened as follows:
 | 1st Person Singular         | com            | fom            | jom        | som          | xom               |
 | 2nd Person Singular         | cal            | fal            | jal        | sal          | xal               |
 | 3rd Person Singular         | cur            | fur            | jur        | sur          | xur               |
-| 1st Person Plural Inclusive | cem            | fem            | jem        | sem          | xem               |
-| 1st Person Plural Exclusive | cel            | fel            | jel        | sel          | xel               |
+| 1st Person Plural Exclusive | cem            | fem            | jem        | sem          | xem               |
+| 1st Person Plural Inclusive | cel            | fel            | jel        | sel          | xel               |
 | 2nd Person Plural           | car            | far            | jar        | sar          | xar               |
 | 3rd Person Plural           | cin            | fin            | jin        | sin          | xin               |
 
