@@ -42,14 +42,16 @@ def main():
     table = dictionary[heading_index:]
     occurences = [i for i, char in enumerate(table) if char == '\n']
     if len(occurences) < 5:
-        print("Check table format and run this script again.")
+        print("Check table format and run this script again.", file=sys.stderr)
         os._exit(-3)
 
     prepended = dictionary[:heading_index] + table[:occurences[3]+1]
     table = table[occurences[3]+1:]
     entries = "\n".join([element.strip() for element in table.split("\n")])
-    entries = [element.split('|')[1:] for element in entries.split("|\n")]
-    entries[-1].pop()
+    entries = [element.split('|')[1:] for element in entries.split("|\n") if element]
+    if len(entries[-1]) > 3:
+        entries[-1].pop()
+        
     entries = lexicalSort(entries)
     for i in range(0, len(entries)):
         entries[i] = '|' + '|'.join(entries[i])
