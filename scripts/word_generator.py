@@ -1,3 +1,4 @@
+#!/bin/env python
 import random
 import sys
 import os
@@ -76,7 +77,7 @@ def generate_syllable():
 
 def generate_word():
     word = ""
-    syllable_count = random.randrange(2, 4)
+    syllable_count = random.randrange(2, 3)
     for i in range(0, syllable_count):
         word += generate_syllable()
     

@@ -11,16 +11,18 @@ Note: `|` is the logical OR operator.
 ## Exceptions
 
 - When a syllable ends in a vowel, the next one (if it exists) cannot start with another vowel.
-- A glottal stop(`'`) cannot preceed any consonants and cannot proceed any non-coda consonants.
+- A glottal stop(`'`) cannot preceed any consonants and cannot proceed any consonants that aren't part of the previous syllable's coda.
 - Two neighboring consonants at the start of a syllable cannot have the same place and manner of articulation.
 - If a syllable starts with a liquid, then it cannot be followed by another consonant.
 
-## Non-differantiating Factors
+> Note: `/nj/` is an allophoneme of `/ɲ/` and not a distinct syllable on its own.
 
-These factors are ones that may not change the meaning of a word (as in, if 2 words are entirely the same except for only these factors, they must mean the same)
+## Non-differantiating factors
 
-- Stress
-- Vowel length
-- Diphthongs ending in `o` and their counterpart ending with `u` and vice-versa
-- Dipththongs ending with `u` and monothongs with the same starting vowel followed by `w`
-- Consonants with the same place and manner of articulation
+These describe cases where two syllables are too phonemically similar to be distuinguished (meaning that there cannot be two words whose only difference is a non-differentiating factor).
+
+- Stress.
+- Vowel length.
+- Diphthongs ending in `o` and their counterparts ending with `u`.
+- Diphthongs ending in `u` and monothongs with the same starting vowel followed by `w`.
+- Consonants with the same place and manner of articulation.

@@ -35,36 +35,53 @@ The 'aluko classes are shortened as follows:
 
 | **Word**       | **Class** | **Definition**                                                                                  |
 | -------------: | :-------: | :---------------------------------------------------------------------------------------------- |
-| pa             | V         | Be                                                                                              |
-| 'aluko         | N         | The 'aluko language                                                                             |
-| mpela          | I         | Hello/goodbye                                                                                   |
-| mjau           | I         | The sound a cat makes, "meow"                                                                   |
-| wawa           | V         | See                                                                                             |
-| þeña           | I/V       | Fuck                                                                                            |
-| tiþo           | V         | Speak/say                                                                                       |
 | ãjpa           | V         | Walk                                                                                            |
-| juvro          | N         | Money                                                                                           |
-| osn            | V         | Want                                                                                            |
-| kniðbu         | V         | Understand                                                                                      |
-| zeor           | V         | Know                                                                                            |
-| tenroa         | N         | Fish                                                                                            |
-| þwusa          | N         | (Unorganized) mass of people                                                                    |
-| ñiñow          | N         | Baby                                                                                            |
-| meo            | N         | Person                                                                                          |
-| komko          | N         | Group                                                                                           |
-| jalo           | I         | Congratulations/Yay                                                                             |
-| wasi           | N         | Crazy                                                                                           |
-| ko             | P         | In/at/on (meaning in the general place of)                                                      |
-| tawi           | P         | With (accompanied by someone)                                                                   |
 | aln            | P         | With (using a tool)                                                                             |
+| aso            | V/N       | Hate                                                                                            |
 | awa            | A         | How (in what manner)                                                                            |
-| wav            | I         | The sound a dog makes, "woof", "bark"                                                           |
-| kwa            | I         | The sound a duck makes, "quack"                                                                 |
-| mû             | I         | The sound a cow makes, "moo"                                                                    |
-| xoin           | I         | The sound a pig makes, "oink"                                                                   |
+| fesu           | V         | See                                                                                             |
 | xaxa           | I         | The sound of a laugh, "haha"                                                                    |
-| mama           | N         | Mother, Mom                                                                                     |
-| papa           | N         | Father, Dad                                                                                     |
-| ral            | A         | Not                                                                                             |
+| xoin           | I         | The sound a pig makes, "oink"                                                                   |
+| ilño           | V/N       | Drink                                                                                           |
+| jalo           | I         | Congratulations/Yay                                                                             |
 | jarzan         | V/N       | Work, job                                                                                       |
+| je             | V         | Have                                                                                            |
+| juvro          | N         | Money                                                                                           |
+| juwe           | V         | Need                                                                                            |
+| kniðbu         | V         | Understand                                                                                      |
+| komko          | N         | Group                                                                                           |
+| ko             | P         | In/at/on (meaning in the general place of)                                                      |
+| kwa            | I         | The sound a duck makes, "quack"                                                                 |
+| laj            | V         | Go                                                                                              |
+| mama           | N         | Mother, Mom                                                                                     |
+| meo            | N         | Person                                                                                          |
+| mjau           | I         | The sound a cat makes, "meow"                                                                   |
+| mpela          | I         | Hello/goodbye                                                                                   |
+| mû             | I         | The sound a cow makes, "moo"                                                                    |
+| nfai           | I         | Thanks                                                                                          |
+| oño            | V/N       | Eat, food                                                                                       |
+| osn            | V         | Want                                                                                            |
+| papa           | N         | Father, Dad                                                                                     |
+| pa             | V         | Be                                                                                              |
+| ñiñow          | N         | Baby                                                                                            |
+| ral            | A         | Not                                                                                             |
+| rexa           | V/N       | Think, thought                                                                                  |
+| reja           | V         | Be called                                                                                       |
+| rixu           | V/N       | Do, act, action                                                                                 |
+| tani           | V         | Seem                                                                                            |
+| tawi           | P         | With (accompanied by someone)                                                                   |
+| tenroa         | N         | Fish                                                                                            |
+| tiþo           | V         | Speak/say                                                                                       |
+| toi            | V/N       | Feel, feeling                                                                                   |
 | uso            | V/N       | Love                                                                                            |
+| þasm           | V         | Believe                                                                                         |
+| þeña           | I/V       | Fuck                                                                                            |
+| þwusa          | N         | (Unorganized) mass of people                                                                    |
+| ðo'e           | V/N       | Give, gift                                                                                      |
+| wasi           | N         | Crazy                                                                                           |
+| wav            | I         | The sound a dog makes, "woof", "bark"                                                           |
+| wawa           | P         | Inside                                                                                          |
+| 'aluko         | N         | The 'aluko language                                                                             |
+| zeor           | V         | Know                                                                                            |
+| zeðu           | V         | Dislike                                                                                         |
+| ziða           | V         | Like                                                                                            |

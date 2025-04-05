@@ -16,7 +16,7 @@ Here are some general properties of 'aluko's grammar:
 | ------------: | :-----------------------------------------: | :---------- |
 | Nominative    | Marks the subject of a clause               | `c`-        |
 | Accusative    | Marks the direct object of a clause         | `f`-        |
-| Dative        | Marks the indirect object of a clause       | `j`-        |
+| Dative        | Marks the indirect object of a clause       | `þ`-        |
 | Genitive      | Marks the possessor of another nominal term | `s`-        |
 | Prepositional | Marks the object of a preposition           | `x`-        |
 
@@ -48,7 +48,7 @@ Types of *Pronouns* include *Personal Pronouns*, *Demonstrative Pronouns*, *Inte
 
 ## Vowel Reduplication
 
-Whenever two morphemes are linked and they do not form valid syllables, the inital vowel of the proceeding syllable is inserted between them as a monophthong to ensure correct phonotactical behavior.
+Whenever two morphemes are linked and they do not form valid syllables, the inital vowel of the proceeding syllable is inserted between them as a monophthong to ensure correct phonotactical behavior. Note that this does *not* happen with the consonants `n` and `j`, which are invalid as a consonant cluster, but "merge" to form `ñ`.
 
 ## Persons
 
@@ -80,7 +80,7 @@ Verbs are conjugated based on person and tense. The order in which these are spe
 | Past      | `p`-       |
 | Future    | `g`-       |
 
-Note: ø is used to signify the absence of a sound.
+> Note: ø is used to signify the absence of a sound.
 
 ### Infinitives
 
@@ -96,7 +96,7 @@ Note: ø is used to signify the absence of a sound.
 
 *Prepositions* are a type of modifier that can functions as *Attributive* and others as *Adverbial*. They function similar to adverbs, except that they also take an object, that must be in the *Prepositional Case*.
 
-Note: The word *Marker* refers to a morpheme used to specify or differentiate between grammatical features/properties.
+> Note: The word *Marker* refers to a morpheme used to specify or differentiate between grammatical features/properties.
 
 ## Particles
 
@@ -110,7 +110,16 @@ Note: The word *Marker* refers to a morpheme used to specify or differentiate be
 
 | **Conjunction** | **Type**    | **English Equivalent** |
 | --------------- | ----------- | ---------------------- |
-| `ī`             | Additional  | And                    |
+| `ĩ`             | Additional  | And                    |
 | `la`            | Alternative | Or                     |
 | `vam`           | Contrastive | But                    |
 | `zoj`           | Resulting   | So                     |
+
+## Word Inversion
+
+Inversion of 'aluko words is achievable by inverting the vowels they are consisted of according to the following table:
+
+- `a` with `u`
+- `i` with `e`
+
+> Note: `o` has no equivalent inverse vowel and is considered neutral. Words whose syllables' nuclei are exclusively nasal and `o`s cannot be inverted to form a new word.
