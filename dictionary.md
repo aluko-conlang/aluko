@@ -68,6 +68,7 @@ The 'aluko classes are shortened as follows:
 | rexa           | V/N       | Think, thought                                                                                  |
 | reja           | V         | Be called                                                                                       |
 | rixu           | V/N       | Do, act, action                                                                                 |
+| tal | AV | Again |
 | tani           | V         | Seem                                                                                            |
 | tawi           | P         | With (accompanied by someone)                                                                   |
 | tenroa         | N         | Fish                                                                                            |
