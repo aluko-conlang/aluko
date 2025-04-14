@@ -23,6 +23,4 @@ These describe cases where two syllables are too phonemically similar to be dist
 
 - Stress.
 - Vowel length.
-- Diphthongs ending in `o` and their counterparts ending with `u`.
-- Diphthongs ending in `u` and monothongs with the same starting vowel followed by `w`.
 - Consonants with the same place and manner of articulation.

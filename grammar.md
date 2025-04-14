@@ -66,13 +66,15 @@ Whenever two morphemes are linked and they do not form valid syllables, the init
 
 ## Verbs
 
-Verbs are conjugated based on person and tense. The order in which these are specified is TPR, where T is the tense of the verb, P is the person and R is the verb root/infinitive. Note that mood is also a conveyed factor that is not part of the verb's conjugation, but specified according to the following table (note that these go before the verb).
+Verbs are conjugated based on person and tense. The order in which these are specified is TPR, where T is the tense of the verb, P is the person and R is the verb root/infinitive. Note that mood is also a conveyed factor that is not part of the verb's conjugation, but specified according to the following table (note that these precede the verb).
 
-| **Mood**    | **Particle** |
-| ----------: | :----------- |
-| Indicative  | -            |
-| Subjunctive | ki           |
-| Imperative  | to           |
+| **Mood**      | **Particle** |
+| ------------: | :----------- |
+| Indicative    | -            |
+| Subjunctive   | ki           |
+| Imperative    | to           |
+| Optative      | be           |
+| Interrogative | uwu          |
 
 | **Tense** | **Marker** |
 | --------: | :--------- |

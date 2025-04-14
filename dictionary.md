@@ -43,6 +43,7 @@ The 'aluko classes are shortened as follows:
 | xaxa           | I         | The sound of a laugh, "haha"                                                                    |
 | xoin           | I         | The sound a pig makes, "oink"                                                                   |
 | ilño           | V/N       | Drink                                                                                           |
+| isga           | A         | Again                                                                                           |
 | jalo           | I         | Congratulations/Yay                                                                             |
 | jarzan         | V/N       | Work, job                                                                                       |
 | je             | V         | Have                                                                                            |
@@ -56,19 +57,21 @@ The 'aluko classes are shortened as follows:
 | mama           | N         | Mother, Mom                                                                                     |
 | meo            | N         | Person                                                                                          |
 | mjau           | I         | The sound a cat makes, "meow"                                                                   |
-| mpela          | I         | Hello/goodbye                                                                                   |
+| mpéla          | I         | Hello/goodbye                                                                                   |
 | mû             | I         | The sound a cow makes, "moo"                                                                    |
 | nfai           | I         | Thanks                                                                                          |
 | oño            | V/N       | Eat, food                                                                                       |
 | osn            | V         | Want                                                                                            |
 | papa           | N         | Father, Dad                                                                                     |
 | pa             | V         | Be                                                                                              |
+| ñeja           | N         | Good                                                                                            |
+| ñiju           | N         | Bad                                                                                             |
 | ñiñow          | N         | Baby                                                                                            |
 | ral            | A         | Not                                                                                             |
+| rexañéja       | N         | The 'aluko script™, "good-thinking"                                                             |
 | rexa           | V/N       | Think, thought                                                                                  |
 | reja           | V         | Be called                                                                                       |
 | rixu           | V/N       | Do, act, action                                                                                 |
-| tal | A | Again |
 | tani           | V         | Seem                                                                                            |
 | tawi           | P         | With (accompanied by someone)                                                                   |
 | tenroa         | N         | Fish                                                                                            |
